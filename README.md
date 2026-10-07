@@ -6,6 +6,25 @@
 
 第一次阅读可以从[上线检查表](templates/release-checklist.md)开始；评估“500 人在线”时，先看[容量测试复盘](notes/capacity-testing.md)与[报告模板](templates/capacity-report.md)。
 
+## 系统界面预览
+
+下面的截图来自本地 Edge/WebKit 自动化测试夹具，用于快速了解上传、工作台和个人 AI 配置页面的布局。图片使用合成数据，不包含真实账号、密钥或用户文件。
+
+<table>
+  <tr>
+    <td><a href="screenshots/archive-center-desktop.png"><img src="screenshots/archive-center-desktop.png" alt="资料归档中心与上传成功状态" width="320"></a></td>
+    <td><a href="screenshots/workbench-desktop.png"><img src="screenshots/workbench-desktop.png" alt="系统工作台与任务概览" width="320"></a></td>
+    <td><a href="screenshots/ai-settings-desktop.png"><img src="screenshots/ai-settings-desktop.png" alt="个人 AI 配置页面" width="320"></a></td>
+  </tr>
+  <tr>
+    <td align="center">资料归档中心</td>
+    <td align="center">系统工作台</td>
+    <td align="center">个人 AI 配置</td>
+  </tr>
+</table>
+
+[查看截图目录和来源说明](screenshots/README.md)
+
 ## 笔记
 
 | 主题 | 内容 |
