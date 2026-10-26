@@ -7,5 +7,7 @@
 | [archive-center-desktop.png](archive-center-desktop.png) | 资料归档中心与上传成功状态 |
 | [workbench-desktop.png](workbench-desktop.png) | 系统工作台与任务概览 |
 | [ai-settings-desktop.png](ai-settings-desktop.png) | 个人 AI 配置页面（不含真实 API Key） |
+| [home-dashboard-desktop-2026-10-26.png](home-dashboard-desktop-2026-10-26.png) | 学院主题首页桌面视口，Edge 模拟接口测试 |
+| [home-dashboard-mobile-2026-10-26.png](home-dashboard-mobile-2026-10-26.png) | 学院主题首页手机视口，Edge 模拟接口测试 |
 
 截图不包含真实账号、API Key、用户文件或生产数据。它们不能替代真机验收，也不代表学校生产环境的性能或安全承诺。

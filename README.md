@@ -36,6 +36,7 @@
 | [浏览器兼容实践](notes/browser-compatibility.md) | 文件下载、存储降级、日期和移动端验证 |
 | [AI 办公中的人工把关](notes/human-reviewed-ai-workflows.md) | 草稿生成、PPT 导出和可追溯的操作边界 |
 | [账号切换时的异步状态隔离](notes/account-switch-async-state.md) | 工作台并发请求、会话归属、过期响应和回归验证 |
+| [智能工程技术学院首页设计复盘](notes/college-system-homepage-redesign.md) | 学院视觉、响应式指标卡、全局样式冲突和界面回归 |
 
 ## 可复用模板
 
