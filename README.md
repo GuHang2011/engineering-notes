@@ -37,6 +37,7 @@
 | [AI 办公中的人工把关](notes/human-reviewed-ai-workflows.md) | 草稿生成、PPT 导出和可追溯的操作边界 |
 | [账号切换时的异步状态隔离](notes/account-switch-async-state.md) | 工作台并发请求、会话归属、过期响应和回归验证 |
 | [智能工程技术学院首页设计复盘](notes/college-system-homepage-redesign.md) | 学院视觉、响应式指标卡、全局样式冲突和界面回归 |
+| [上线前端验收复盘（2026-10-28）](notes/prelaunch-frontend-review-2026-10-28.md) | 13 个入口、窄屏、账号竞态、电子盖章和宝塔包验收 |
 
 ## 可复用模板
 
